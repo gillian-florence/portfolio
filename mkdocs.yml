@@ -1,5 +1,5 @@
 site_name: Gillian Florence - Technical Writing Portfolio
-site_url: https://sitename.example
+site_url: https://github.com/gillian-florence/mkdocs-material-sample
 theme:
   name: material
   palette:
@@ -17,6 +17,7 @@ extra_css:
   - stylesheets/extra.css
 nav:
   - Home: index.md
+  - Extensions Demo: extensions-demo.md
   - Admin Guide:
     - Installation: admin-guide/installation.md 
     - Features:
@@ -34,6 +35,10 @@ nav:
       - Mass Recurring Non-Availabilties: 
          - Overview: admin-guide/massrecurring-overview.md
          - Metadata: admin-guide/massrecurring-metadata.md
+  - User Guide:
+    - About: user-guide/index.md
+  - Blogs:
+    - Sample Blogs: blogs/index.md
      
   
 markdown_extensions:
@@ -41,6 +46,25 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.magiclink:
+      hide_protocol: false
+      normalize_issue_symbols: false
+      user: 
+      provider: github
+      repo: 
+      repo_url_shorthand: true
+      repo_url_shortener: false
+      social_url_shorthand: false
+      social_url_shortener: false
+  - pymdownx.emoji:
+  - pymdownx.tabbed:
+      alternate_style: true
+      combine_header_slug: true
+  - pymdownx.snippets:
+      check_paths: true
+      url_download: false
+      url_max_size: 33554432
+      url_timeout: 10
 extra:
   social:
     - icon: fontawesome/brands/linkedin
