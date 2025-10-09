@@ -4,8 +4,8 @@ theme:
   name: material
   palette:
     scheme: default
-    primary: indigo
-    accent: deep purple
+    primary: blue
+    accent: light blue
   font:
       text: Roboto
   features:
@@ -17,7 +17,6 @@ extra_css:
   - stylesheets/extra.css
 nav:
   - Home: index.md
-  - Extensions Demo: extensions-demo.md
   - Admin Guide:
     - Installation: admin-guide/installation.md 
     - Features:
@@ -35,10 +34,12 @@ nav:
       - Mass Recurring Non-Availabilties: 
          - Overview: admin-guide/massrecurring-overview.md
          - Metadata: admin-guide/massrecurring-metadata.md
-  - User Guide:
-    - About: user-guide/index.md
-  - Blogs:
-    - Sample Blogs: blogs/index.md
+  - Blogs: published-blogs.md
+  - Help Center: knowledge-base.md
+  - API Documentation: api-docs.md
+  - Athletic Honours: athletic-honours.md
+
+
      
   
 markdown_extensions:
@@ -46,6 +47,8 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - attr_list
+  - md_in_html
   - pymdownx.magiclink:
       hide_protocol: false
       normalize_issue_symbols: false
@@ -57,6 +60,8 @@ markdown_extensions:
       social_url_shorthand: false
       social_url_shortener: false
   - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.tabbed:
       alternate_style: true
       combine_header_slug: true

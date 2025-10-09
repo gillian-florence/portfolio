@@ -5,25 +5,14 @@ As a Salesforce-savvy technical writer and product documentation specialist, I c
 
 ## Featured Documentation
 
-- [User Guide](user-guide/index.md): Step-by-step documentation for end users.
 - [Admin Guide](admin-guide/installation.md): Installation, configuration, and setup for administrators.
-- [Blogs & Articles](blogs/index.md): Writing samples published or drafted for product marketing.
-
-=== "Admin Guide"
-    ??? abstract "Installation & Configuration"
-        Guides for Salesforce Admins to install and configure custom components.
-        [:material-arrow-right: View Admin Guide](admin-guide/installation.md)
-
-=== "User Guide"
-    ??? abstract "End User Instructions"
-        Step-by-step guidance for field users and dispatchers.
-        [:material-arrow-right: View User Guide](user-guide/index.md)
-
-=== "Published Blogs"
-    ??? abstract "Writing Samples on Company Website"
-        External blogs published at Diabsolut on product features.
-        [:material-arrow-right: View Blogs](blogs/index.md)
+- [Blogs](published-blogs.md): Writing samples published for product marketing.
+- [Help Center](knowledge-base.md): 
 
 ## About This Site
 
-This site is built using [MkDocs Material](https://squidfunk.github.io/mkdocs-material/), optimized for clean navigation and structured documentation.
+This site is built using:
+
+- [**Material for MkDocs**](https://squidfunk.github.io/mkdocs-material/), optimized for clean navigation and structured documentation.
+- **Visual Studio Code** for local Markdown development
+- [**GitHub**](https://github.com/gillian-florence/mkdocs-material-project){: target="_blank" } for version control and public publishing.
