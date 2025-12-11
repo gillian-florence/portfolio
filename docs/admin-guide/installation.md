@@ -5,7 +5,7 @@ The SFS Extensions (SFS-X) app enhances Salesforce Field Service by delivering a
 This managed package offers ready-to-configure features that integrate seamlessly with your existing Field Service setup, allowing for quick deployment and adoption.
 ## Features
 
-The current release of the SFS Extensions app includes the following features:
+The current release of the SFS-X app includes the following features:
 
 - **Working Alone Timer and Alert System**: Monitor lone worker status and receive alerts when safety timers expire.
 - **Mobile Layout**: Apply mobile-specific layout configurations to improve technician user experience.
@@ -32,16 +32,15 @@ Before installing the SFS-X app, ensure the following prerequisites are met:
 
 Ensure that users in your org are assigned the appropriate Field Service Permission Set Licenses and Permission Sets, as outlined in the table below.
 
-Refer to Salesforce Help documentation:
-
-- [Field Service Permission Set Licenses](https://help.salesforce.com/s/articleView?id=sf.field_service_psl.htm)
-- [Assign Field Service Permissions](https://help.salesforce.com/s/articleView?id=sf.field_service_permissions.htm)
-
 | User                     | Permission Set License                         | Permission Sets                                        |
 |--------------------------|------------------------------------------------|--------------------------------------------------------|
 | **Dispatcher**           | <ul><li>Field Service Dispatcher</li> <li>Field Service Dispatcher Permissions </li></ul>      | <ul><li>Field Service Dispatcher License </li> </ul>    |
 | **Technician**           | <ul><li>Field Service Mobile</li> <li>Field Service Scheduling</li>  <ul>                    | <ul><li>Field Service Resource License</li> <li>Field Service Resource Permissions</li> <li>Field Service Mobile License</li></ul>                |  
 
+Refer to Salesforce Help documentation:
+
+- [Field Service Permission Set Licenses](https://help.salesforce.com/s/articleView?id=sf.field_service_psl.htm)
+- [Assign Field Service Permissions](https://help.salesforce.com/s/articleView?id=sf.field_service_permissions.htm)
 ## Install the SFS-X Package
 
 To install the SFS Extensions app:

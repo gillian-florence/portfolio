@@ -3,9 +3,22 @@ site_url: https://github.com/gillian-florence/mkdocs-material-sample
 theme:
   name: material
   palette:
-    scheme: default
-    primary: indigo
-    accent: light blue
+      # Palette toggle for light mode
+    - scheme: default
+      primary: teal
+      accent: deep orange
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: teal
+      accent: deep orange
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  
   font:
       text: Roboto
   features:
@@ -13,6 +26,7 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.top
+    - navigation.footer
 extra_css:
   - stylesheets/extra.css
 nav:
@@ -23,8 +37,9 @@ nav:
       - Working Alone Timer: 
         - Overview: admin-guide/wat-overview.md
         - Metadata: admin-guide/wat-metadata.md
-        - Configuration: admin-guide/wat-configuration.md
-        - Set Up Service Resources and Service Territories: admin-guide/wat-config-setup-service-resource.md
+        - Configuration: 
+           - Configuration Overview: admin-guide/wat-configuration.md
+           - Set Up Service Resources and Service Territories: admin-guide/wat-config-setup-service-resource.md
       - Union Rules: 
          - Overview: admin-guide/unionrules-overview.md
          - Metadata: 
@@ -34,7 +49,7 @@ nav:
       - Mass Recurring Non-Availabilties: 
          - Overview: admin-guide/massrecurring-overview.md
          - Metadata: admin-guide/massrecurring-metadata.md
-  - Blogs: published-blogs.md
+  - Published Blogs: published-blogs.md
   - Help Center: knowledge-base.md
   - UX Writing: ux-writing.md
   - Athletic Honours: athletic-honours.md
@@ -76,3 +91,10 @@ extra:
     - icon: fontawesome/brands/linkedin
       link: "https://www.linkedin.com/in/gillianflorence"
       name: "Connect with me on LinkedIn"
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/gillian-florence/mkdocs-material-project
+
+
+copyright: |
+  
+  &copy; 2025 <a href="https://github.com/gillian-florence/mkdocs-material-project"  target="_blank" rel="noopener">Gillian Florence</a>

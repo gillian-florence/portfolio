@@ -20,9 +20,7 @@ This Help Center serves multiple audiences:
 
 ---
 
-### Why It Matters
-
-This sample site demonstrates:
+This sample Help Center demonstrates:
 
 - **Salesforce Experience Cloud** customization  
 - **Knowledge Base taxonomy planning**  
@@ -34,6 +32,5 @@ This sample site demonstrates:
 
 ### Visit the Live Demo
 
-Explore the public version of the demo Help Center here:
-
+Explore the public version of the demo Help Center:
 [**Launch the Help Center**](https://devorgkbcom-dev-ed.develop.my.site.com/DemoHelpCenter/){: target="_blank" rel="noopener" }
