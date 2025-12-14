@@ -1,167 +1,250 @@
 # About Me
-I’m a technical writer who enjoys making the complex feel simple. I spend my time between product, engineering, and the end user- testing workflows, asking questions, clarifying intent, and shaping information into guidance people can actually use.
+I’m a technical writer who enjoys making the complex feel simple. I spend my time between product, engineering, and the end user&mdash;testing workflows, asking questions, clarifying intent, and shaping information into guidance people can actually use.
 
-I like figuring things out. More importantly, I like helping people succeed, whether that’s through clear documentation, thoughtful collaboration, or solving a tricky problem alongside a team.
+I like figuring things out. More importantly, I enjoy helping people succeed, whether that’s through clear documentation, thoughtful collaboration, or solving a tricky problem alongside a team.
 
 ## My Working Environment
 
 ??? quote "How I Work"
-    I work best when I can get hands-on with products— testing workflows, talking with teammates, and figuring out how things actually behave. I’m naturally curious and don't shy away from ambiguity; I work through it until the picture is clear.
+    I work best when I can get hands-on with a product, testing workflows, talking with teammates, and seeing how things actually behave. I’m naturally curious and comfortable working through ambiguity until the picture is clear.
 
-    I’m straightforward, thorough, and persistent. If something doesn’t make sense, I ask questions until it does—not to challenge, but because accuracy matters.
+    I’m straightforward and thorough. If something doesn’t make sense, I ask questions until it does, not to challenge anyone, but because accuracy matters.
 
-    I balance collaboration with focused, independent work. I like bouncing around ideas with a team, but I also enjoy digging into details on my own to refine content, validate steps, and make things clearer. I’m motivated by progress and by turning complexity into something that makes sense.
+    I balance collaboration with focused, independent work. I value team discussion and shared problem-solving, but I also need uninterrupted time to dig into details, validate steps, and refine content.
 
 ??? quote "What I’m Known For"
 
     People often describe me as reliable, steady, and easy to work with.
 
     - **Dependable**  
-      I take pride in being someone others don’t have to worry about — if something is assigned to me, it gets done well and on time.
+      If something is assigned to me, it gets done well and on time.
 
-    - **Curious & analytical**  
-      I’m always asking why, digging deeper, and piecing together how things *actually* work. Curiosity is my engine.
+    - **Curious and analytical**  
+      I ask why, dig into details, and piece together how things actually work.
 
     - **Strong communicator**  
       I listen carefully, ask direct questions, and make sure I understand the full context.
 
-    - **Relationship-builder**  
-      I connect naturally with people. I enjoy learning how teammates work, what matters to them, and how I can make their job easier.
+    - **Relationship-oriented**  
+      I enjoy working with different personalities and learning how teammates operate so collaboration is easier.
 
 ??? quote "How I Approach Documentation"
-    I write the way people look for information: clear structure, logical flow, and no filler. My goal is always to make the complex usable.
+    I write documentation the way people look for information: clear structure, logical flow, and no filler. My focus is on helping users complete tasks without friction.
 
-    I dig into the full workflow—including edge cases—so I understand what’s really happening. I test steps myself because accuracy builds trust, and I ask SMEs direct, respectful questions to get the right details.
+    I take the time to understand the full workflow, including edge cases, by testing steps myself and asking focused, respectful questions. I don’t assume behaviour without verifying it.
 
-    I tailor content to the audience, keep jargon to a minimum, and update documentation as the product evolves. To me, documentation is part of the product: it should reduce friction, improve adoption, and give users confidence.
-
-
+    I tailor content to its audience, keep jargon to a minimum, and maintain documentation as the product evolves. I see documentation as part of the product—it should support adoption, reduce confusion, and build user confidence.
 
 ## Skills and Experience
 ??? quote "General Technical Writing Experience"
-    I’ve worked in technical writing roles since 2008, working across enterprise hardware, manufacturing, SaaS startups, and Salesforce-based solutions. 
-   
-    My experience ranges from mechanical and electrical installation guides to operator workflows for in-cab displays, OEM manuals, knowledge base content, and task-focused user documentation. The environments and products have varied, but the work has been consistent: understand the system, learn the workflow, and document it in a way that’s accurate, clear, and easy to follow for the intended user.
+    I’ve worked in technical writing roles since 2008, across enterprise hardware, manufacturing environments, SaaS products, and Salesforce-based solutions.
 
-
+    My experience includes mechanical and electrical installation documentation, operator manuals for in-cab systems, OEM and dealer manuals, knowledge base content, and task-based user guides. While the industries and products have varied, my approach has remained consistent: understand how the system works, observe how people actually use it, and document workflows clearly and accurately for the intended audience.
 
 ??? quote "Deliverable Types"
-    - Admin & installation guides (Salesforce managed/packaged apps)  
-    - End-user guides and quickstarts with step flows, screenshots, and callouts  
-    - Release notes & change logs tied to versioned artifacts  
-    - Help-center IA, article templates, and content standards  
-    - Demo scripts (voiceover + on-screen), short explainer videos, and product one-pagers  
-    - UX writing for in-product copy, error states, and empty-state guidance
+
+    - User guides
+    - Configuration and setup guides
+    - Installation documentation *(hardware and software)*
+    - Operator manuals
+    - Release notes
+    - Knowledge base articles
+    - In-product and contextual help
+    - Demo scripts and marketing content
+    - Blog posts
 
 ??? quote "Tools & Technologies"
-    - Docs-as-code: Markdown, MkDocs (Material), Git, GitHub, GitHub Pages, YAML
-    - Salesforce ecosystem: Field Service, Experience Cloud, B2B Commerce, Flow Builder, Permission Sets, Profiles, Lightning App Builder, Validation Rules
-    - Authoring & documentation: Google Workspace, Confluence, Jira (docs + dev), Draw.io, Lucidchart, Microsoft Word
-    - Design & media: Canva, ScreenFlow, Figma (for UI visuals, storyboards, and demo scripting)
-    - Automation & CI/CD: Azure DevOps pipelines, GitHub Actions (versioned content + unmanaged package release workflows)
-    - Scrum & product ops: Jira (backlog, sprint planning, acceptance criteria), Azure DevOps (boards, pipelines, repos), stakeholder grooming sessions, cross-functional collaboration
+
+    I'm very comfortable picking up new tools and technology as needed. That said, these are the environments and technologies I have experience with:
+
+    **Docs-as-Code & Authoring**
+
+    - Markdown, HTML
+    - MkDocs (Material), static site generators
+    - Git, GitHub, GitHub Pages
+    - YAML
+    - Visual Studio Code
+    - Oxygen XML
+
+    **Salesforce Platform**
+
+    - Salesforce Administration
+    - Field Service, Experience Cloud, B2B Commerce
+    - Flow Builder, Lightning App Builder
+    - Permission Sets, Profiles, Validation Rules
+    - Custom Objects & Fields
+    - Page Layouts, Actions, List Views
+
+    **Product, Delivery & Support**
+
+    - Jira, Azure DevOps 
+    - Agile / Scrum workflows
+    - User stories and acceptance criteria
+    - Zendesk
+    - AI-assisted writing and editing tools (used with human review and validation)
+
+    **Visuals & Media**
+
+    - Lucidchart, Draw.io
+    - Figma
+
+??? quote "AI in My Writing Workflow"
+
+    I use AI as a practical support tool throughout the documentation lifecycle, not as a replacement for subject-matter expertise.
+
+    In my day-to-day work, I use AI to:
+    
+    - Accelerate first drafts, outlines, and content restructuring
+    - Explore alternative phrasing, tone, or levels of technical depth
+    - Sanity-check explanations and surface gaps or assumptions
+    - Summarize complex inputs (engineering notes, requirements, feedback)
+    - Support consistency across larger documentation sets
+
+    I typicaly prompt for structured summaries or reports so I can review findings systematically—verifying accuracy, deciding what belongs in the documentation, and identifying areas that need deeper investigation.
+
+    Accuracy, context, and judgment always come first. I validate workflows hands-on, confirm details with subject-matter experts, and treat AI output as a starting point.
+
+    Used well, AI helps me work faster and think more clearly, while still delivering documentation that is precise, trustworthy, and aligned with how the product actually works.
 
 ??? quote "Intangibles & Strengths"
-    - Building strong relationships with product, engineering, UX, and support teams  
-    - Adapting in remote, asynchronous, and fast-paced environments  
-    - Applying a detail-oriented, investigative approach to documentation  
-    - Navigating ambiguity and clarifying complex workflows  
-    - Following through with dependability, accountability, and consistency  
-    - Interviewing SMEs and extracting accurage technical details  
-    - Balancing collaboration with independent, focused work  
-    - Learning new systems, tools, and technologies quickly
-    - Communicating with empathy and a team-first mindset     
+    These are the qualities that I bring consistently in how I work and how teams experience working with me:
+
+    - Building strong, trusting relationships across product, engineering, UX, and support  
+    - Navigating ambiguity and bringing clarity to complex workflows  
+    - Taking a detail-oriented, investigative approach to understanding how things really work  
+    - Following through with consistency, accountability, and reliability  
+    - Balancing collaboration with independent, focused work 
+    - Communicating thoughtfully, with a team-first and empathetic mindset
+
+## Education
+??? quote "Education"
+
+    **Graduate Certificate, Technical Writing**  
+    Algonquin College — Ottawa, Ontario  
+
+    Formal training in technical documentation principles, including audience analysis, document design, usability, and structured authoring for online help and technical content.
+
+    **Bachelor of Education (Physical Education)**  
+    McGill University — Montréal, Québec  
+
+    Completed a full undergraduate degree with a focus on instruction, communication, and learning design—skills that continue to inform how I structure information and explain complex concepts.
+ 
 
 ## Work Experience
 
 ??? quote "Diabsolut | Technical Writer | January 2023 - Present"
-
-??? quote "Kinduct | Training & Support Specialist to Product Manager | July 2017 – June 2022"
-
-    ??? quote "Product Manager | August 2018 – June 2022"
-
-        **Overview**  
-        I transitioned into a full-time Product Manager role as Kinduct was navigating significant technical and organizational change, including a major platform rebuild and later an acquisition. My work centered on clarifying direction, shaping product requirements, keeping teams aligned, and ensuring we delivered meaningful functionality despite shifting priorities. I collaborated with design, engineering, customer success, and senior product leadership to define what we were building, why it mattered, and how it should work.
-
-        **What I Did**  
-
-        - Defined MVPs, gathered requirements, and translated complex workflows into clear user stories and acceptance criteria.  
-        - Worked closely with UI/UX design on discovery, prototyping, and refining user flows for core feature rebuilds.  
-        - Supported an international engineering team (local + remote) through two-week sprints, backlog grooming, and release planning.  
-        - Led major feature redesigns, including early work on Program Builder and a full rebuild of the Form Builder to support conditional logic (if-then-else) for high-profile clients like the USOPC.  
-        - Coordinated cross-functional communication with customer success, sales, support, and stakeholders to ensure roadmap clarity and alignment.  
-        - Managed incoming client-specific requests, competitive analysis, and prioritization as business needs evolved.  
-        - Provided continuity during leadership transitions and post-acquisition restructuring, keeping projects on track while strategy shifted.
-
-        **Highlights**  
-
-        - Delivered the Form Builder MVP—supporting advanced conditional logic—used by elite sport organizations previously reliant on external tools like Qualtrics.  
-        - Helped shape architectural direction during multiple rebuild initiatives by grounding decisions in real workflows and customer outcomes.  
-        - Strengthened relationships with high-touch clients, gathering feedback that directly informed feature prioritization and refinement.  
-        - Served as a stable, reliable point of alignment during major organizational change, ensuring teams stayed focused, informed, and moving forward.  
-    ??? quote "Training & Support Specialist | July 2017 – August 2018"
-
-        **Overview**  
-         I joined Kinduct, a SaaS athlete management platform used by elite sports teams and health organizations, as a Training & Support Specialist. My role was to take ownership of the knowledge base, improve training content, and bring clarity to a fast-moving, highly configurable product. Within less than a year, I was also asked to lead one of Kinduct’s Agile development teams while continuing to own the knowledge base — a 50/50 role that expanded my responsibilities into backlog management, team coordination, and release planning.
-
-         **What I Did**  
-
-         - Led a full audit and rebuild of the knowledge base during a major UI/UX redesign, updating all core articles using HTML in Zendesk.  
-        - Learned the platform hands-on across training tools, form builders, injury logs, athlete profiles, admin configuration, reporting, and permissions.  
-        - Documented data workflows and API-driven integrations with wearable devices and athlete monitoring systems, translating technical processes into clear guidance for coaches, trainers, and medical staff.  
-        - Managed a remote Scrum team responsible for hotfixes, bug fixes, client-specific requests, new site builds, and system configurations.  
-        - Handled backlog refinement, requirements gathering, sprint planning, and prioritization during two-week development cycles.  
-        - Coordinated day-to-day communication between engineering and Customer Success Managers, especially for high-touch professional sports clients with urgent needs.  
-        - Tested features hands-on, validated behaviors, clarified requirements, and ensured documentation aligned with real-world workflows.  
-
-        **Highlights**  
-
-        - Rebuilt the entire help center within three months during a major modernization effort.  
-        - Took on Agile team leadership responsibilities while maintaining ownership of all documentation.  
-        - Delivered bi-weekly releases and managed urgent hotfixes in a fast-paced, client-driven environment.  
-        - Strengthened documentation quality, consistency, and governance across a large, evolving SaaS platform.  
-        - Built strong cross-functional relationships with engineering, CSMs, and product stakeholders.  
-        - Set the foundation for transitioning into a full-time Product Manager role.  
-
-??? quote "Ultra Maritime | Technical Writer | April 2015 - July 2017"
-    **Overview**  
-    I joined Ultra Maritime as their first technical writer, supporting engineering teams developing marine defence technology for government and NATO clients. Much of the documentation was written by technologists and senior engineers, and the review burden had become unsustainable for the Chief Technology Director. My role was to bring consistency, structure, and editorial quality to a high-volume, highly technical document stream while navigating strict security, formatting, and compliance standards.
-
-    **What I Did**  
-    I began by reviewing and editing engineering documents for clarity, grammar, structure, terminology, and adherence to corporate templates—work that significantly reduced the time senior reviewers spent correcting basic writing issues. I ensured all documents were properly formatted, registered, numbered, and prepared for the formal document control workflow.
-
-    Some engineers were initially hesitant about adding a writer into the process. To address this, I created and delivered a short presentation to clarify my role, reassure authors about technical accuracy, and outline how I could support them without disrupting their workflow. This helped build trust and ultimately strengthened collaboration.
-
-    As the role evolved, I wrote additional procedures for the manufacturing floor and supported a wide range of document types, including test plans, test reports, preventative maintenance tasks, user manuals, and specifications. Because the work was tied to defence contracts, the role required obtaining and maintaining NATO Secret security clearance.
-
-    **Highlights** 
-
-     - Served as Ultra Maritime’s first technical writer, improving clarity, consistency, and structure across engineering documentation.  
-    - Reduced senior engineering review time by correcting grammar, formatting, terminology, and style early in the process.  
-    - Contributed to meeting project milestones and client delivery deadlines; praised for attention to detail and providing “excellent value.”  
-    - Built relationships with initially hesitant engineers through clear communication and a supportive, collaborative approach.  
-    - Supported diverse document types, from test reports to user manuals, maintenance procedures, and specifications.  
-    - Required and held NATO Secret security clearance for defence-related documentation and workflows.  
-
-??? quote "Caterpillar | Technical Writer | July 2008 - March 2015"
+    *Salesforce-based solutions*
 
     **Overview**  
-    I joined Caterpillar as the first and only technical writer in a small engineering group that had just been acquired. The team worked on mining technology for open-pit operations: surface drill systems, onboard displays, and equipment integrations used on some of the largest loading and hauling machines in Caterpillar’s fleet. The team was also transitioning from a “garage-style” engineering culture to enterprise-level processes, and almost no formal product documentation existed. My role was to create the entire product documentation set from the ground up while learning Caterpillar’s standards, tools, and publishing practices.
+    I work on Diabsolut’s Product Development team, supporting a Salesforce-based initiative focused on building repeatable, packaged solutions alongside client delivery work. The product development function is a relatively new endeavor within the consulting firm, and I was brought in not only for technical writing, but also for my product management background to help shape how solutions are defined, tested, and documented.
 
-    **What I Did**  
-    I worked closely with engineering SMEs to understand the hardware, electrical systems, and evolving product designs behind Caterpillar’s surface drill technology. Because the products were early in development, I relied heavily on schematics, 3D models, and hands-on time in the engineering lab to piece together accurate installation workflows.
+    The team is small and fluid—typically myself, a developer, and rotating support from technical consultants depending on availability. My role is part-time and consulting-based, requiring independence, adaptability, and sound judgment about where to focus effort so the work produces lasting value.
 
-    I produced detailed manuals that combined step-by-step procedures, routing instructions, safety considerations, BOM details, and annotated visuals. This meant learning how every bracket, cable, and connector fit into the system—and updating documentation constantly as designs changed. I became the point of contact with Caterpillar’s corporate publishing group, ensuring all documentation aligned with enterprise standards.
+    **What I Do**  
+    I work closely with developers, technical consultants, and the Director of Product to document, test, and refine Salesforce-based solutions, primarily focused on Field Service use cases. I own the creation and maintenance of installation guides, configuration documentation, and user-facing content, while also participating actively in product discovery and validation.
 
-    The work extended into the field as well. I validated procedures at Caterpillar’s Tucson Proving Ground in Arizona and supported proof of concept installations at a mine site in northern Alberta—experiences that deepened my understanding of how technicians actually performed and would use the content.
+    To ensure accuracy, I work hands-on in Salesforce development orgs—configuring objects, fields, flows, permission sets, page layouts, and Lightning components to validate behavior. I test new work items and releases end to end, raise bugs, flag edge cases, and suggest UI/UX improvements based on real admin and end-user workflows. This testing mindset directly informs both the documentation and the product itself. I collaborate closely with developers as features change rapidly, updating content to stay aligned with actual behavior rather than intended design.
+
+    During this time, I have developed a deep understanding of the Salesforce platform and chose to formalize that knowledge by pursuing the Salesforce System Administrator certification. I passed the exam on my first attempt, reinforcing my ability to document Salesforce solutions with credibility, accuracy, and practical insight.
+
+    I also contribute to enablement and product-facing content, including demo scripts, blog posts, and AppExchange-style descriptions, ensuring consistency between how solutions work and how they are communicated.
 
     **Highlights**  
 
-    - Created a complete library of 7+ installation and operator manuals where none previously existed.  
-    - Produced accurate, engineering-aligned documentation for multiple drill models with varying mechanical and electrical configurations.  
-    - Developed high-quality visuals using DSLR photography, image editing, and curated 3D engineering assets.  
-    - Supported field validation at Tucson Proving Ground and documentation of on-site prototype installations in northern Alberta.  
-    - Became the requested writer for three additional product groups after early documentation success.  
-    - Received notable praise from the original founder of the engineering firm acquired by Caterpillar, after reading my drill operator's manual cover-to-cover:  
-      *“This is perfect—amazing. I built the system and still learned things from your manual.”*
+    - Supported an early-stage Product Development initiative within a Salesforce consulting firm, contributing both technical writing and product-thinking skills.
+    - Owned end-to-end documentation for Salesforce-based solutions, from installation and configuration through user workflows.
+    - Tested new work items and releases hands-on in Salesforce and contributed to product quality through bug reporting and UX feedback.
+    - Built deep Salesforce expertise and earned the Salesforce System Administrator certification on the first attempt.
+    - Contributed to documentation, demo scripts, and product-facing content supporting adoption and clarity.
+
+??? quote "Kinduct | Training & Support Specialist to Product Manager | July 2017 – June 2022"
+
+
+    ??? quote "Training & Support Specialist | July 2017 – August 2018"
+        *SaaS -- Athlete Management System*
+
+        **Overview**
+
+        I joined Kinduct, a SaaS-based athlete management platform used by elite sports teams and health organizations, as a Training & Support Specialist. The company was growing quickly, and my role was to take ownership of the knowledge base, improve training content, and bring structure and consistency to documentation supporting a complex, highly configurable product used by a global, high-performance client base.
+
+        **What I Did**
+
+        My first major initiative was a full audit and rebuild of the knowledge base during a significant UI/UX redesign. I learned the platform hands-on across training tools, form builders, injury logs, athlete profiles, admin configuration, reporting, and permissions, and rewrote the entire help center using HTML in Zendesk within my first three months.
+
+        I also documented data workflows and integrations with third-party athlete monitoring tools, translating API-driven processes into clear guidance for non-technical users such as coaches and medical staff.
+
+        As my product knowledge grew, I was asked to take on a hybrid role—leading an Agile development team while continuing to own documentation. In this 50/50 role, I coordinated backlog refinement, sprint planning, and urgent issue response while ensuring documentation stayed aligned with product behaviour.
+
+        During this time, I identified gaps in how the company handled incident communication. After experiencing a reactive outage scenario, I proposed and led the adoption of a structured status and incident communication process, including pre-approved messaging, in-app notification banners, and documented response workflows. This reduced confusion during high-pressure situations and improved client communication.
+
+        **Highlights**
+
+        - Rebuilt the entire knowledge base during a major product modernization effort.  
+        - Developed clear, accessible documentation for complex workflows and data integrations.  
+        - Took on Agile team leadership while maintaining documentation ownership.  
+        - Identified gaps in incident communication and led the adoption of a status page and structured outage-response workflow, including pre-approved messaging, in-app notifications, and documented escalation processes.
+        - Built strong cross-functional relationships across product, engineering, and customer success that laid the groundwork for transitioning into a full-time Product Manager role.
+
+    ??? quote "Product Manager | August 2018 – June 2022"
+
+        **Overview**
+
+        I transitioned into a full-time Product Manager role as Kinduct was navigating significant technical and organizational change, including a major platform rebuild and later an acquisition. The platform carried substantial tech debt, and leadership direction shifted more than once. In this environment, my focus was on bringing clarity to ambiguity—helping teams understand what we were building, why it mattered, and how to move forward despite evolving priorities.
+
+        **What I Did**
+
+        I worked closely with senior product leadership, UI/UX designers, customer success, and local and remote engineering teams to define MVPs, gather requirements, and translate complex workflows into actionable user stories and acceptance criteria. This included gathering input from stakeholders, writing user stories and acceptance criteria, shaping backlogs, and supporting two-week release cycles, validating functionality hands-on, and ensuring what we shipped aligned with real client needs.
+
+        My work included supporting major rebuild initiatives, notably the redesign of the Form Builder to support conditional logic for high-profile clients such as the USOPC. The MVP was delivered at the onset of the COVID-19 pandemic, enabling Kinduct to support use cases previously reliant on external tools like Qualtrics.
+
+        Following Kinduct’s acquisition by mCube (later Movella), the product direction shifted again and another platform rebuild initiative began. Throughout these transitions, I served as a steady point of continuity—coordinating communication across teams, managing incoming client requests, supporting special projects, and helping maintain forward momentum even as long-term strategy evolved.
+
+        **Highlights**
+
+        - Delivered the Form Builder MVP with advanced conditional logic, supporting complex data-collection workflows for elite sport organizations.  
+        - Helped guide product direction through multiple rebuild initiatives.  
+        - Maintained strong client relationships and incorporated feedback into planning.  
+        - Provided stability and clear communication during leadership changes and post-acquisition restructuring.
+
+??? quote "Ultra Maritime | Technical Writer | April 2015 - July 2017"
+    *Marine Defence & Manufacturing*  
+
+    **Overview**  
+    I joined Ultra Maritime as their first technical writer, supporting engineering teams developing marine defence technology for government and NATO clients. Much of the documentation was authored by technologists and senior engineers, and the review cycles had become inefficient and unsustainable. My role was to improve clarity, consistency, structure, and editorial quality while navigating strict document control and compliance requirements.
+
+    **What I Did**  
+    I reviewed and edited a high volume of engineering documentation, standardizing structure, formatting, terminology, and language to align with corporate templates and expectations. This reduced the editing burden on senior engineering leadership and improved document quality earlier in the review process.
+
+    Initially, some engineers were hesitant about introducing a technical writer (editor) into their workflow. I addressed this by clearly defining my role, collaborating closely with authors, and ensuring technical accuracy remained with engineering. Over time, trust improved and the process became smoother.
+
+    As the role evolved, I contributed more directly to procedure-based documentation on the manufacturing floor, supporting a wide range of document types including test plans, test reports, maintenance procedures, specifications, and user manuals. The work required obtaining NATO Secret security clearance and strict adherence to controlled documentation workflows.
+
+    **Highlights** 
+
+    - Served as Ultra Maritime’s first technical writer in a highly regulated environment.  
+    - Improved document quality and reduced senior review time.  
+    - Supported a broad range of manufacturing and test documentation.  
+    - Recognized for attention to detail, efficiency, and contributing to on-time milestone delivery.    
+    - Required and held NATO Secret security clearance for defence-related documentation and workflows.  
+
+??? quote "Caterpillar | Technical Writer | July 2008 - March 2015"
+    *Mining Technology - Surface Drilling Systems*  
+
+    **Overview**  
+    I joined Caterpillar as the first and only technical writer in a small engineering group that had just been acquired. The team worked on mining technology for open-pit operations, including surface drill systems, onboard displays, and integrations used on some of the largest loading and hauling machines in Caterpillar’s fleet. The team was also transitioning from a “garage-style” engineering culture to enterprise-level processes, and almost no formal product documentation existed. My role was to create the entire product documentation set from the ground up while learning Caterpillar’s standards, tools, and publishing practices.
+
+    **What I Did**  
+    I worked directly with engineers and designers to understand complex mechanical, electrical, and software systems and translate them into accurate, step-by-step installation and operator documentation. Because products were evolving rapidly, I relied heavily on schematics, assembly drawings, 3D models, and hands-on time in the engineering lab to validate procedures and keep documentation aligned with design changes.
+
+    The work required extreme attention to detail, every manual included full bill of materials, approved part names, and precise installation steps across multiple drill models and configurations. I curated visuals from engineering tools, created original photography, and coordinated closely with Caterpillar’s publishing and safety teams to ensure all content met corporate standards.
+
+    I also validated documentation in the field, travelling to Caterpillar’s Tucson Proving Ground and to mine sites in northern Alberta to observe installations, confirm procedures, and document real-world workflows.
+
+    **Highlights**  
+
+    - Built a complete documentation library from virtually no existing materials.
+    - Authored 7+ in-depth installation and operator manuals (100+ pages each).
+    - Supported multiple drill models with complex mechanical and electrical variations.
+    - Validated procedures on live mine sites and at Caterpillar’s proving grounds.
+    - Became a requested writer for additional mining product teams.
 
