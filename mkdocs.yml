@@ -33,8 +33,8 @@ nav:
   - Home: index.md
   - Writing Samples:
     - Administrator Guide: 
-      - Introduction: admin-guide/index.md
-      - Start Here - Install & Configure: admin-guide/installation.md 
+      - About This Sample: admin-guide/index.md
+      - Install & Configure: admin-guide/installation.md 
       - Features:
         - Working Alone Timer: 
           - Overview: admin-guide/wat-overview.md

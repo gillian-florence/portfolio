@@ -1,30 +1,28 @@
 # User Guide — Writing Sample (PDF)
 
-This page links to a representative user guide sample from a Salesforce Field Service solution.  
-The production documentation is authored in Microsoft Word and published as a PDF.
+This page links to a representative user guide sample from a Salesforce Field Service solution.
 
-[Open the User Guide Sample (PDF)](../assets/pdfs/user-guide-sample.pdf){:target="_blank"}
+The production documentation is authored in Microsoft Word and published as a PDF. The sample below is included for portfolio review.
 
-## What This Sample Covers
+**Jump directly to the sample:**
 
-This excerpt focuses on a single feature—Mass Recurring Non-Availabilities—within a larger, highly configurable system.
+- **[View the User Guide PDF](../assets/pdfs/user-guide-sample.pdf){:target="_blank"}**
+- **[Download the PDF](../assets/pdfs/user-guide-sample.pdf){:download}**
 
-I selected this feature because it reflects the kind of complexity users actually face: multiple workflows, configuration-driven behaviour, and platform constraints that affect outcomes. Rather than sharing the full guide, this sample demonstrates how I documented one feature clearly and thoroughly.
+> This excerpt reflects how the guide is delivered to end users in production.
 
-## Audience
+**What this sample represents**  
+A focused excerpt from a larger user guide, covering a single feature: **Mass Recurring Non-Availabilities**.
 
-This documentation is written for dispatchers and operational users working in Salesforce Field Service in an office/desktop environment.
+I selected this feature because it reflects real-world user complexity—multiple workflows, configuration-driven behaviour, and Salesforce platform constraints that affect outcomes. Rather than sharing the entire guide, this sample shows how I document one complex feature clearly and thoroughly.
 
-It assumes familiarity with Salesforce navigation and terminology and focuses on completing tasks accurately and efficiently, rather than on conceptual or marketing-level explanations.
+**Audience**  
+Dispatchers and operational users working in Salesforce Field Service in a desktop environment. The content assumes familiarity with Salesforce navigation and terminology and focuses on completing tasks accurately and efficiently.
 
-## What This Sample Demonstrates
+**What this Sample Shows**
 
 - Task-based, procedural writing for complex workflows  
-- Clear step sequencing supported by visuals  
+- Clear step sequencing with supporting visuals  
 - Explicit handling of edge cases and platform limitations  
-- Careful use of notes to prevent common errors  
-- Alignment with Salesforce UI patterns and terminology  
-
-
-
-
+- Intentional use of notes to prevent common errors  
+- Alignment with Salesforce UI patterns and terminology
