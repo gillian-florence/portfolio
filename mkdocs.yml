@@ -1,5 +1,5 @@
 site_name: Gillian Florence - Technical Writer
-site_url: https://github.com/gillian-florence/mkdocs-material-sample
+site_url: https://github.com/gillian-florence/portfolio
 theme:
   name: material
   palette:
