@@ -37,7 +37,7 @@ nav:
       - Sample Overview: admin-guide/index.md
       - Sample Documentation (PDF): admin-guide/admin-guide-pdf-sample.md
       - Sample Documentation (MkDocs):
-        - Install & Configure: admin-guide/installation.md 
+        - Installation & Configuration: admin-guide/installation.md 
         - Features:
           - Working Alone Timer: 
             - Overview: admin-guide/wat-overview.md
